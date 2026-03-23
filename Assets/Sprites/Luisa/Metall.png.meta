@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 061d454362dbff34d85f57b441715ecf
+guid: aa36e11d03ece4498a903c565d39f5ff
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6330969168363139030
-    second: Radar_0
+      213: -8556025659962817175
+    second: Metall_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Radar_0
+      name: Metall_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 48
-        height: 48
+        x: 2
+        y: 7
+        width: 45
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6df2c3c6aee1cd750800000000000000
-      internalID: 6330969168363139030
+      spriteID: 9650ac87ef3e24980800000000000000
+      internalID: -8556025659962817175
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Radar_0: 6330969168363139030
+      Metall_0: -8556025659962817175
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
