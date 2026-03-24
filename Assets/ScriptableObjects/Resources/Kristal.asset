@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d0340907ea066e49b31a5fc3525536d, type: 3}
-  m_Name: RES_Spirit
+  m_Name: Kristal
   m_EditorClassIdentifier: 
   id: spirit
-  icon: {fileID: 21300000, guid: ba7cc8c0665b8fd4ea52b635a70245fe, type: 3}
-  displayName: Spirit
+  icon: {fileID: 286215335144837871, guid: 4d79e4671daee4ee28157f4369379e25, type: 3}
+  displayName: Kristal
   maxStack: 99
   description: Spirit is needed to motivate your actors.
