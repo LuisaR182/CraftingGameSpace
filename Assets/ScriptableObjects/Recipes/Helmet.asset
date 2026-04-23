@@ -15,23 +15,21 @@ MonoBehaviour:
   displayName: Helmet
   tier: 1
   pattern:
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
     amount: 1
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
     amount: 1
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
     amount: 1
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
     amount: 1
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
     amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}
     amount: 0
-  - item: {fileID: 11400000, guid: 83dd38eeb2932894887331d8edb21942, type: 2}
-    amount: 1
-  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 6dd343b0011e96148955bdda69e4f67d, type: 2}
     amount: 1
   - item: {fileID: 0}
     amount: 0
@@ -43,6 +41,8 @@ MonoBehaviour:
     amount: 0
   - item: {fileID: 0}
     amount: 0
+  - item: {fileID: 11400000, guid: 381439a130a3d48c2993e1b94aa87afd, type: 2}
+    amount: 1
   - item: {fileID: 0}
     amount: 0
   - item: {fileID: 0}

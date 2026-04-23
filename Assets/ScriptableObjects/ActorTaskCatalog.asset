@@ -15,8 +15,12 @@ MonoBehaviour:
   forageAreas:
   - {fileID: 11400000, guid: ad46d4f4c7d76c64f879cc7d34a4204d, type: 2}
   - {fileID: 11400000, guid: 7a96e10b59efe334db3ccc01828b312f, type: 2}
+  - {fileID: 11400000, guid: eaec8803c03eb429481fd37a0f50ed3b, type: 2}
+  - {fileID: 11400000, guid: c4257034344924e8b876b62dc97a09d0, type: 2}
   sellRoutes:
   - {fileID: 11400000, guid: 1f03547655ba69b44bc5402e03827c7f, type: 2}
+  - {fileID: 11400000, guid: aff5af03edf2ad24ba3e71e61fe008e5, type: 2}
+  - {fileID: 11400000, guid: aff5af03edf2ad24ba3e71e61fe008e5, type: 2}
   researchDomains:
   - {fileID: 11400000, guid: 366a46310ff211c4883add1224017c02, type: 2}
   - {fileID: 11400000, guid: 69e8b5530a4e38642ac9f1fadb8f3658, type: 2}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75e06c2391548c5ab5d457b3bb03cd2, type: 3}
+  m_Name: Actor_DocRobot
+  m_EditorClassIdentifier: Assembly-CSharp::ActorDefinition
+  id: Medizin Roboter
+  displayName: Robina
+  role: {fileID: 11400000, guid: e8916f3976cf24d1eb24accd2f3da2e7, type: 2}
+  portraitOverride: {fileID: -6989173784094162660, guid: a5dc382d631214c70a3f2f447eb46996, type: 3}
+  spiritPerDay: 0
+  hireGoldCost: 0
+  happiness: 0.5
+  clumsiness: 0.2
+  happinessThoughts: []
+  clumsyThoughts: []
+  idleThoughtIntervalMinSeconds: 17
+  idleThoughtIntervalMaxSeconds: 35
+  happyIdleThoughts: []
+  clumsyIdleThoughts: []
+  happyTravelThoughts: []
+  happyForageThoughts: []
+  happySellThoughts: []
+  happyResearchThoughts: []
+  happyCraftThoughts: []
+  happyTavernThoughts: []
+  clumsyTravelThoughts: []
+  clumsyForageThoughts: []
+  clumsySellThoughts: []
+  clumsyResearchThoughts: []
+  clumsyCraftThoughts: []
+  clumsyTavernThoughts: []
